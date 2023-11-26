@@ -1,0 +1,16 @@
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.exe
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.deps.json
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.runtimeconfig.json
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.runtimeconfig.dev.json
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.dll
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\ref\GroceryStoreMVC.dll
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\bin\Debug\net5.0\GroceryStoreMVC.pdb
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.csproj.AssemblyReference.cache
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.AssemblyInfoInputs.cache
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.AssemblyInfo.cs
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.dll
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\ref\GroceryStoreMVC.dll
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.pdb
+C:\Users\al.skachkov25g\source\repos\GroceryStore\GroceryStore\obj\Debug\net5.0\GroceryStoreMVC.genruntimeconfig.cache
